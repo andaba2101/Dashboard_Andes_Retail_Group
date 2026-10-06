@@ -1,5 +1,5 @@
 # Dashboard_Andes_Retail_Group
-Dashboard interactivo para entender el desempeño comercial de los años 2024–2025 de Andes Retail Group
+Sprint 10 | Proyecto 9: Dashboard interactivo para entender el desempeño comercial de los años 2024–2025 de Andes Retail Group
 
 
 # Proyecto 9: Dashboard de desempeño comercial
